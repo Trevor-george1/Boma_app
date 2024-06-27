@@ -1,0 +1,4 @@
+
+
+create Tenant tenant_name="Major" property_name="pemwa" house_no="011"
+all Tenant
